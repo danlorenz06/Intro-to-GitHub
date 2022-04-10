@@ -1,8 +1,11 @@
-
 public class Person {	
 	
-	public class int first_name;	
-	public class int last_name;
-
-
+	private int x;
+	public int getFirstName(){
+	return x;
+}	
+	private int y;
+	public int getLastName(){
+	return y;
+}
 }
